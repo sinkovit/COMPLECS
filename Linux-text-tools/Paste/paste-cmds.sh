@@ -1,2 +1,2 @@
-paste cols12.txt cols34.txt
-paste -d ',' cols12.txt cols34.txt
+paste fruits.txt colors.txt
+paste -d ',' fruits.txt colors.txt
